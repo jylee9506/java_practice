@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.prsp1.sample.SampleTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-19T11:21:39" hostname="DESKTOP-AE3OOKN" time="0.043">
+  <properties/>
+  <testcase name="test1()" classname="com.example.prsp1.sample.SampleTests" time="0.043"/>
+  <system-out><![CDATA[08:21:38  INFO [org.springframework.test.context.support.DefaultTestContextBootstrapper] Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+08:21:38  INFO [org.springframework.test.context.support.DefaultTestContextBootstrapper] Using TestExecutionListeners: [org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@1a1ed4e5, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@667e34b1, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@1c6e0a08, org.springframework.test.context.support.DirtiesContextTestExecutionListener@6dba847b, org.springframework.test.context.transaction.TransactionalTestExecutionListener@1efdcd5, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@1623bbe5, org.springframework.test.context.event.EventPublishingTestExecutionListener@7af1cd63]
+08:21:39  INFO [com.example.prsp1.sample.SampleTests] com.example.prsp1.sample.SampleDAO@60737b23
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
